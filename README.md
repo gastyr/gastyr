@@ -1,17 +1,24 @@
-# Hi, I'm Gabriel 👋
+# Hi, I'm Gabriel
+I'm driven by my desire to understand the world, I believe that combining fields like technology, mathematics, and physics can create powerful tools to improve people's lives.<br/>
 
+➤ Lifelong learner<br/>
 ➤ Bachelor's Degree in Applied Mathematics<br/>
 ➤ Mathematical Modeling<br/>
-➤ Machine Learning<br/>
-➤ Data Visualization
+
 
 
 ## Techs I'm interested in
 
 ➤ Python<br/>
 ➤ SQL<br/>
-➤ Cloud Computing<br/>
+➤ Machine Learning<br/>
+➤ Data Visualization<br/>
 ➤ Rust<br/>
+➤ Solidity<br/>
+➤ Blockchain<br/>
+➤ Cloud Computing<br/>
+➤ C/C++<br/>
+➤ IoT<br/>
 ➤ R
 
 
