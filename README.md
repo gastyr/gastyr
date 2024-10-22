@@ -4,7 +4,7 @@ I'm driven by my desire to understand the world, I believe that combining fields
 ➤ Lifelong learner<br/>
 ➤ Bachelor's Degree in Applied Mathematics<br/>
 ➤ Mathematical Modeling<br/>
-
+➤ Python Developer<br/>
 
 
 ## Techs I'm interested in
